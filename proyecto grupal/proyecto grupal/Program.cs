@@ -38,7 +38,7 @@ class Program
     // Opcion 2 (la programa B)
     static void Suma()
     {
-        Console.WriteLine("En construccion");
+        Console.WriteLine("En jjjjj");
     }
 
     // Opcion 3 (la programa C)
