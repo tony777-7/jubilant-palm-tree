@@ -32,7 +32,7 @@ class Program
     // Opcion 1 (la programa A)
     static void Saludo()
     {
-        Console.WriteLine("En construccion");
+        Console.WriteLine("hola esta es moi prueba");
     }
 
     // Opcion 2 (la programa B)
