@@ -32,7 +32,10 @@ class Program
     // Opcion 1 (la programa A)
     static void Saludo()
     {
-        Console.WriteLine("hola esta es moi prueba");
+        string nombre;
+        Console.WriteLine("hola ingresa su nombre");
+        nombre= Console.ReadLine();
+        Console.WriteLine("hola "+ nombre);
     }
 
     // Opcion 2 (la programa B)
