@@ -47,7 +47,15 @@ class Program
     // Opcion 3 (la programa C)
     static void ParImpar()
     {
-        Console.WriteLine("En construccion");
+        Console.WriteLine("Ingresa un numero: ");
+        int num = Convert,toint32(Console.ReadLine());
+        if (num%2==0)
+        Console.WriteLine($"El numero {num} es par.");
+    }
+    else
+    {
+        Console.WriteLine($"El numero {num} es impar.");
+    }
     }
 
     // Opcion 4 (la programa D)
